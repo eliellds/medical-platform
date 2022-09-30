@@ -1,0 +1,25 @@
+.dashboard__container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2d2929;
+}
+.container__content {
+    text-align: center;
+}
+.content__buttons-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttons-list__item {
+    margin: 20px;
+}
+.content__header {
+    color: white;
+}
+.text--red {
+    color: rgba(220, 40, 40, 0.9);
+}

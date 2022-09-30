@@ -1,0 +1,3 @@
+[submodule "src/app/modules/doctor"]
+	path = src/app/modules/doctor
+	url = https://github.com/eliellds/submodule-doctor.git
